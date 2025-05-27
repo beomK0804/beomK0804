@@ -23,7 +23,7 @@
 -->
 
 
-<img src="https://github.com/user-attachments/assets/842f7602-9f4b-4e5f-9b00-1dea62db06cd" width=500px>
+<img src="https://github.com/user-attachments/assets/842f7602-9f4b-4e5f-9b00-1dea62db06cd" width=300px>
 
 
 <hr/>
